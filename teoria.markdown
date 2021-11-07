@@ -11,7 +11,7 @@ El so és la percepció del cervell d’una vibració que es transmet mitjançan
 
 La vibració de l’aire descriu un moviment ondulatori que es caracteritza per unes magnituds físiques: freqüència, amplitud, longitud d’ona, etc.
 
-![Representació del so](../imatges/imatge1.png)
+![Representació del so](resources/unitat1/imatge1.png)
 
 Aquestes magnituds físiques permeten definir les qualitats del so: diferents tons, timbres i duració dels sons.
 
