@@ -16,34 +16,34 @@ La vibració de l’aire descriu un moviment ondulatori que es caracteritza per 
 Aquestes magnituds físiques permeten definir les qualitats del so: diferents tons, timbres i duració dels sons.
 
 
-![Qualitats dels sons](../imatges/imatge2.png)
+![Qualitats dels sons](resources/unitat1/imatge2.png)
 
 ## Magnituds físiques del so
 Les principals magnituds físiques que permeten diferenciar i classificar les ones sonores són: l’amplitud, la longitud d’ona, la freqüència i el període.
 
-![Qualitats físiques dels sons](../imatges/imatge3.png)
+![Qualitats físiques dels sons](resources/unitat1/imatge3.png)
 
 
 * **L’amplitud**: és la distància entre el punt més alt de l’ona fins la base (o línia d’equilibri).
 
-![Exemple amplitud sons](../imatges/imatge4.png)
+![Exemple amplitud sons](resources/unitat1/imatge4.png)
 * **La longitud d’ona**: és la distància entre dos crestes o dos valls.
 
-![Diferents longituds d'ona](../imatges/imatge5.png)
+![Diferents longituds d'ona](resources/unitat1/imatge5.png)
 
 * **La freqüència**: és la quantitat de vegades que es produeix la vibració per cada segon. Es mesura en Herz (Hz) que és una vibració per segon.
 
     Com més freqüència (més vibracions) tinga un so més agut és mentre que com menys freqüència tinga és més greu.
 
-    ![Freqüència del so](../imatges/imatge6.png)
+    ![Freqüència del so](resources/unitat1/imatge6.png)
 
     Els humans escoltem freqüències que van des dels 20Hz fins els 20.000 Hz. La veu humana va de 1000 a 2000 Hz.
 
-    ![L'espectre sonor](../imatges/imatge7.png)
+    ![L'espectre sonor](resources/unitat1/imatge7.png)
 
     Les notes musicals tenen la següent freqüència:
 
-    ![Freqncies notes musicals](../imatges/imatge8.png)
+    ![Freqncies notes musicals](resources/unitat1/imatge8.png)
 
 
 * **El període**: temps transcorregut entre dos punts equivalents de la ona. És la inversa de la freqüència.
@@ -52,23 +52,23 @@ Les principals magnituds físiques que permeten diferenciar i classificar les on
 * **Altura**: indica si és agut o greu. Està relacionat amb la freqüència.
 * **Duració**: indica el temps que es manté una ona sonora completa. Es pot diferenciar entre sons curts i llargs.
 
-  ![Duració ona](../imatges/imatge10.png)
+  ![Duració ona](resources/unitat1/imatge10.png)
 
 * **Intensitat**: és equivalent al volum. Es diferencia entre sons forts i fluixos.
 * **Timbre**: qualitat que ens permet distingir dos sons d’igual freqüència i intensitat emesos per dos focus sonors diferents. Permet identificar què està sonant (un objecte, un instrument o la veu d’una persona).
 
-    ![Relació entre les magnituds físiques i les qualitats del so](../imatges/imatge9.png)
+    ![Relació entre les magnituds físiques i les qualitats del so](resources/unitat1/imatge9.png)
 
 ## Digitalització del so
 El so es transmet mitjançant ones analògiques que poden prendre infinits valors. En canvi, els ordinadors treballen amb informació digital, de manera que s’ha de transformar el senyal analògic a un senyal digital mitjançant un procés anomenat **digitalització del so**.
 
 Consisteix en prendre mostres del senyal sonor (mostreig). Ho fa a intervals constants de temps (freqüència de mostreig) per mesurar la intensitat del senyal analògic i aquest valor ho expressa en binari.
 
-![Mostreig senyal digital](../imatges/imatge11.png)
+![Mostreig senyal digital](resources/unitat1/imatge11.png)
 
 Com més vegades es mesure el senyal analògic (freqüència de mostreig alta), el so tindrà major qualitat.
 
-![Freqüència de mostreig i qualitat del so](../imatges/imatge12.png)
+![Freqüència de mostreig i qualitat del so](resources/unitat1/imatge12.png)
 
 Després de fer el mostreig es fa la quantificació que consisteix en assignar a cada mostra un únic valor d’eixida. Com més bits usem per representar els valors de la mostra, més valors es podran representar i més qualitat tindrà el so digital. El nombre de bits que s’usa per representar cada mostra s’anomena **resolució o mida de la mostra**.
 
