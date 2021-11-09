@@ -6,4 +6,5 @@ categories: audacity
 ---
 En aquesta web anem a penjar els materials necessaris per tractar el tema d'Edició de so a Audacity junt als exercicis per practicar corresponents.
 
-![Logotip Audacity](../resources/img/logo.jpg)
+![Logotip Audacity](/resources/img/logo.jpg)
+
